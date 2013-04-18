@@ -35,7 +35,7 @@
 
 -define(AUTH_PREFERENCE, [
 		"CRAM-MD5",
-		"LOGIN",
+%%		"LOGIN",
 		"PLAIN"
 	]).
 
